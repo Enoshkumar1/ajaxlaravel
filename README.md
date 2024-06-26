@@ -1,5 +1,5 @@
 # ajaxlaravel
-CRUD operations through Laravel 
+CRUD operations using AJAX in Laravel and with local storage to save data
 
 Demo Video 
 
